@@ -19,7 +19,7 @@
     // Set up the widget name and description.
     public function __construct() {
       $widget_options = array( 'classname' => 'websand_subscription_form', 'description' => 'This plugin creates a widget that can be used to capture and send subscriber information to WebsandHQ' );
-      parent::__construct( 'websandhq_contact', 'Websand Subscription Form', $widget_options );
+      parent::__construct( 'websand_subscription_form', 'Websand Subscription Form', $widget_options );
     }
     
     // Create the widget output.

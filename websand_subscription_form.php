@@ -107,7 +107,7 @@
   // Pull in JS 
   function websandhq_register_scripts() {
     wp_enqueue_script(
-      'websandhq_contact_js', 
+      'websand_subscription_form_js', 
       plugins_url( 'assets/js/websand-subscription-form.js', __FILE__ ), 
       array('jquery'),
       '0.1.5',
@@ -116,7 +116,7 @@
   }
  
   add_action('wp_enqueue_scripts', 'websandhq_register_scripts');
-  add_action('widgets_init', function(){ register_widget('websandhq_contact'); });
+  add_action('widgets_init', function(){ register_widget('websand_subscription_form'); });
 
   
   ///////////////////////////////////////////////////////

@@ -15,7 +15,7 @@ Websand Subscription Form. Add Websand Subscriber forms to any post, page, or si
 This plugin enables a simple widget that can be used to capture and send subscriber information to the fabulous and easy to use Email Marketing and Marketing Automation platform [Websand](http://www.websand.co.uk). 
 The widget collects your site visitors' first name and email address and enforces an opt-in when they subscribe - keeping you in line with best practices. 
 Behind the scenes you can configure the plugin to add a 'source code' for the signup. This allows you to monitor where your subscribers are coming from and allow you to assign the most appropriate welcome message for them when they subscribe. 
-Unfortunately, this plugin isn't much use if you aren't a Websand user. Not to worry though, you can sign up and add some superpowers to your email marketing at http://beta.websandhq.com/
+Unfortunately, this plugin isn't much use if you aren't a Websand user. Not to worry though, you can sign up and add some superpowers to your email marketing at http://www.websandhq.com/
 
 #### What is Websand?
 Websand is email marketing designed for businesses that want to get closer to their customers.  We've got 15+ years building loyalty programmes so we understand the value of your customer data.  It's about quality not quantity so our platform helps you create marketing around the value of your customers rather than the size of your list.
